@@ -14,6 +14,12 @@
 
 ### 회고록
 
+* [2017년 회고](http://chrisy.tistory.com/1) by 양성민 님
+* [Goodbye 2017. Hello 2018!](http://blog.leop0ld.org/posts/goodbye-2017-hello-2018/) by LeopOLD 님
+* [2017.log](https://velopert.com/3489) by velopert 님
+* [2017년 회고, 그리고 2018년 계획](http://webholic.net/2017년-회고-그리고-2018년-계획/) by shoo7830 님
+* [2017년 회고](http://jybaek.tistory.com/692) by Jaeyeon Baek 남
+* [2017년 회고](https://yopyop-5e569.firebaseapp.com/posts/-L1fwhVQ05QTs-THFOw_) by 김우현 님
 * [2017년 회고](https://brunch.co.kr/@jojoldu/19) by 창천향로 님
 * [2017년 회고](https://blog.outsider.ne.kr/1339) by Outsider 님
 * [2017년 회고, 2018년 계획](https://zzsza.github.io/diary/2017/12/30/2017-retrospect/) by 변성윤 님
