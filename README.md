@@ -14,12 +14,6 @@
 
 ### 회고록
 
-* [2017년 회고](http://chrisy.tistory.com/1) by 양성민 님
-* [Goodbye 2017. Hello 2018!](http://blog.leop0ld.org/posts/goodbye-2017-hello-2018/) by LeopOLD 님
-* [2017.log](https://velopert.com/3489) by velopert 님
-* [2017년 회고, 그리고 2018년 계획](http://webholic.net/2017년-회고-그리고-2018년-계획/) by shoo7830 님
-* [2017년 회고](http://jybaek.tistory.com/692) by Jaeyeon Baek 님
-* [2017년 회고](https://yopyop-5e569.firebaseapp.com/posts/-L1fwhVQ05QTs-THFOw_) by 김우현 님
 * [2017년 회고](https://brunch.co.kr/@jojoldu/19) by 창천향로 님
 * [2017년 회고](https://blog.outsider.ne.kr/1339) by Outsider 님
 * [2017년 회고, 2018년 계획](https://zzsza.github.io/diary/2017/12/30/2017-retrospect/) by 변성윤 님
@@ -44,6 +38,12 @@
 * [2017년 popit 회고](http://www.popit.kr/2017%EB%85%84-popit-%ED%9A%8C%EA%B3%A0/) by popit
 * [2017년 회고 2018년 계획](http://www.haruair.com/blog/4087) by 김용균 님
 * [보급형 개발자로 스타트업에서 1년](https://brunch.co.kr/@kiyoungleefige/5) by 이기영 님
+* [2017년 회고](http://chrisy.tistory.com/1) by 양성민 님
+* [Goodbye 2017. Hello 2018!](http://blog.leop0ld.org/posts/goodbye-2017-hello-2018/) by Leop0ld 님
+* [2017.log](https://velopert.com/3489) by velopert 님
+* [2017년 회고, 그리고 2018년 계획](http://webholic.net/2017년-회고-그리고-2018년-계획/) by shoo7830 님
+* [2017년 회고](http://jybaek.tistory.com/692) by Jaeyeon Baek 님
+* [2017년 회고](https://yopyop-5e569.firebaseapp.com/posts/-L1fwhVQ05QTs-THFOw_) by 김우현 님
 
 ### 이벤트
 
@@ -70,12 +70,17 @@
 * [3년차 개발자의 2016년 늦은 회고](https://brunch.co.kr/@kiyoungleefige/1) by 이기영 님
 * [4년간의 개인 기술 블로그 운영 회고하기](https://www.holaxprogramming.com/2016/11/17/blahblah-writing-as-programmer/) by 정민혁 님
 
+## [YOP: Year Of Programmers](https://yopyop-5e569.firebaseapp.com/)
+
+YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발자 회고 아카이빙 서비스입니다. 개인 블로그에 올린 회고를 이곳에서도 함께 나누어봐요!
+
 ## Contribution
 
 혼자 보기 아깝다! 하는 회고를 공유해주세요.
 
 개인 블로그의 글을 링크로 참조하다보니 업데이트가 필요할 수 있습니다. PR과 피드백은 언제든지 감사히 받겠습니다.
 
-## [YOP: Year Of Programmers](https://yopyop-5e569.firebaseapp.com/)
+### Contributors
 
-YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발자 회고 아카이빙 서비스입니다. 개인 블로그에 올린 회고를 이곳에서도 함께 나누어봐요!
+* [oaksong](https://github.com/oaksong)
+* [ysm0622](https://github.com/ysm0622)
