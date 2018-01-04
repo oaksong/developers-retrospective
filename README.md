@@ -18,7 +18,7 @@
 * [Goodbye 2017. Hello 2018!](http://blog.leop0ld.org/posts/goodbye-2017-hello-2018/) by LeopOLD 님
 * [2017.log](https://velopert.com/3489) by velopert 님
 * [2017년 회고, 그리고 2018년 계획](http://webholic.net/2017년-회고-그리고-2018년-계획/) by shoo7830 님
-* [2017년 회고](http://jybaek.tistory.com/692) by Jaeyeon Baek 남
+* [2017년 회고](http://jybaek.tistory.com/692) by Jaeyeon Baek 님
 * [2017년 회고](https://yopyop-5e569.firebaseapp.com/posts/-L1fwhVQ05QTs-THFOw_) by 김우현 님
 * [2017년 회고](https://brunch.co.kr/@jojoldu/19) by 창천향로 님
 * [2017년 회고](https://blog.outsider.ne.kr/1339) by Outsider 님
@@ -78,4 +78,4 @@
 
 ## [YOP: Year Of Programmers](https://yopyop-5e569.firebaseapp.com/)
 
-YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발자 회고 아카이밍 서비스입니다. 개인 블로그에 올린 회고를 이곳에서도 함께 나누어봐요!
+YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발자 회고 아카이빙 서비스입니다. 개인 블로그에 올린 회고를 이곳에서도 함께 나누어봐요!
