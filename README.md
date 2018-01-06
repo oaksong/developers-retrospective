@@ -87,3 +87,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 
 * [oaksong](https://github.com/oaksong)
 * [ysm0622](https://github.com/ysm0622)
+* [kingbbode](https://github.com/kingbbode)
