@@ -48,6 +48,7 @@
 * [흔하지 않고 좋은 웹 개발자가 되는 방법 (원제: How to be an uncommonly good web developer)](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)  
 written by Jessica Oei, translated by Captain Pangyo
 * [코딩 - 어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae) written by 남현욱, posted by 코드스쿼드
+* [흔한 개발자의 2017년 회고](http://luckyyowu.tistory.com/380) by Yowu 님
 
 ### 이벤트
 
