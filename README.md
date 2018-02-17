@@ -15,6 +15,7 @@
 ### 회고록
 
 * [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/) by 진유림
+* [NAVER LABS 입사 후, 한 달 반 회고](https://medium.com/@mjspring/naver-labs-%EC%9E%85%EC%82%AC-%ED%9B%84-%ED%95%9C-%EB%8B%AC-%EB%B0%98-%ED%9A%8C%EA%B3%A0-457858ba88ba) by 박미정 님
 
 ## 2017
 
@@ -55,6 +56,8 @@
 written by Jessica Oei, translated by Captain Pangyo
 * [코딩 - 어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae) written by 남현욱, posted by 코드스쿼드
 * [흔한 개발자의 2017년 회고](http://luckyyowu.tistory.com/380) by Yowu 님
+* [2017년을 회고하며](https://hue9010.github.io/til/2017%EB%85%84%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0/) by 이학선 님
+* [뒤늦은 2017년 돌아보기](https://mooyoul.github.io/2018/02/10/a-lookback-at-2017/) by 이무열 님
 
 ### 이벤트
 
