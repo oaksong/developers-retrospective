@@ -49,7 +49,8 @@
 * [2017년 회고](http://chrisy.tistory.com/1) by 양성민 님
 * [Goodbye 2017. Hello 2018!](http://blog.leop0ld.org/posts/goodbye-2017-hello-2018/) by Leop0ld 님
 * [2017.log](https://velopert.com/3489) by velopert 님
-* [2017년 회고, 그리고 2018년 계획](http://webholic.net/2017년-회고-그리고-2018년-계획/) by shoo7830 님
+* [2017년 회고, 그리고 2018년 계획](http://webholic.net/2017년-회고-그리고-2018년-계획/) by 슈기냥 님
+* [만 16년 사회생활을 돌아보며.](http://webholic.net/%EB%A7%8C-16%EB%85%84-%EC%82%AC%ED%9A%8C%EC%83%9D%ED%99%9C%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0/) by 슈기냥 님
 * [2017년 회고](http://jybaek.tistory.com/692) by Jaeyeon Baek 님
 * [2017년 회고](https://yopyop-5e569.firebaseapp.com/posts/-L1fwhVQ05QTs-THFOw_) by 김우현 님
 * [[잡담] 개발자, 플레이윙즈, 2017년](https://medium.com/@erish/%EC%9E%A1%EB%8B%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%9C%99%EC%A6%88-2017%EB%85%84-ad7309793c96) by 신호석 님
