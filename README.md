@@ -61,6 +61,7 @@ written by Jessica Oei, translated by Captain Pangyo
 * [2017년을 회고하며](https://hue9010.github.io/til/2017%EB%85%84%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0/) by 이학선 님
 * [뒤늦은 2017년 돌아보기](https://mooyoul.github.io/2018/02/10/a-lookback-at-2017/) by 이무열 님
 * [2017년 회고](https://www.sangkon.com/2017/12/31/2017_review/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=2017%EB%85%84+%ED%9A%8C%EA%B3%A0) by 한상곤 님
+* [#retrospection 2017년 회고](http://ohyecloudy.com/pnotes/archives/retrospection-2017/) by 오종빈 님
 
 ### 이벤트
 
