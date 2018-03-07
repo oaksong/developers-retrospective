@@ -6,7 +6,7 @@
 
 ### 회고에 대하여
 
-> [‘회고’는 단언컨대, 조직을 가장 빠르고 정확하게 발전시킬 수 있는 가장 효율적인 조직문화이자 프로세스다.](https://www.facebook.com/minieetea/posts/746202072237293) - 강미경
+> [‘회고’는 단언컨대, 조직을 가장 빠르고 정확하게 발전시킬 수 있는 가장 효율적인 조직문화이자 프로세스다.](https://www.facebook.com/minieetea/posts/746202072237293) - 강미경 님
 
 > 회고가 무엇인지 쉽게 이해할 수 있는 글이 있다면 이곳에 남겨주세요.
 
@@ -14,7 +14,7 @@
 
 ### 회고록
 
-* [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/) by 진유림
+* [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/) by 진유림 님
 * [NAVER LABS 입사 후, 한 달 반 회고](https://medium.com/@mjspring/naver-labs-%EC%9E%85%EC%82%AC-%ED%9B%84-%ED%95%9C-%EB%8B%AC-%EB%B0%98-%ED%9A%8C%EA%B3%A0-457858ba88ba) by 박미정 님
 * [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382) by 요우 님
 
