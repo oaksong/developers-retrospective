@@ -20,6 +20,7 @@
 * 3번째 직장에 오기까지 by 창천향로 님
   1. [국비교육기간](http://jojoldu.tistory.com/277)
   2. [취업준비기간](http://jojoldu.tistory.com/278)
+  3. [첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279)
 
 ## 2017
 
