@@ -21,7 +21,8 @@
   1. [국비교육기간](http://jojoldu.tistory.com/277)
   2. [취업준비기간](http://jojoldu.tistory.com/278)
   3. [첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279)
-  4. [두번째직장 #1](http://jojoldu.tistory.com/284)
+  4. [두번째 직장 #1](http://jojoldu.tistory.com/284)
+  5. [두번째 직장 #2](http://jojoldu.tistory.com/302)
 - [[로그] 어느 봄날의 구직활동:: 졸지에 백수였다가 이제 예비 월급쟁이개발자](http://java.ihoney.pe.kr/504) by 허니몬 님
 
 ## 2017
