@@ -23,6 +23,7 @@
   3. [첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279)
   4. [두번째 직장 #1](http://jojoldu.tistory.com/284)
   5. [두번째 직장 #2](http://jojoldu.tistory.com/302)
+  6. [세번째 직장](http://jojoldu.tistory.com/309)
 - [[로그] 어느 봄날의 구직활동:: 졸지에 백수였다가 이제 예비 월급쟁이개발자](http://java.ihoney.pe.kr/504) by 허니몬 님
 
 ## 2017
