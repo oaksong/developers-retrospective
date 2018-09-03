@@ -25,6 +25,8 @@
   5. [두번째 직장 #2](http://jojoldu.tistory.com/302)
   6. [세번째 직장](http://jojoldu.tistory.com/309)
 - [[로그] 어느 봄날의 구직활동:: 졸지에 백수였다가 이제 예비 월급쟁이개발자](http://java.ihoney.pe.kr/504) by 허니몬 님
+- [VIBE iOS 개발 회고](https://medium.com/@ppth0608/vibe-ios-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-dddfb5444a09) by BenPark
+- [2018년 상반기 회고](https://jojoldu.tistory.com/332) by 창천향로 님
 
 ## 2017
 
