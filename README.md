@@ -27,6 +27,9 @@
 - [[로그] 어느 봄날의 구직활동:: 졸지에 백수였다가 이제 예비 월급쟁이개발자](http://java.ihoney.pe.kr/504) by 허니몬 님
 - [VIBE iOS 개발 회고](https://medium.com/@ppth0608/vibe-ios-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-dddfb5444a09) by BenPark
 - [2018년 상반기 회고](https://jojoldu.tistory.com/332) by 창천향로 님
+- [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/) by 노경모 님
+- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/#%EC%96%B4%EB%95%8C%EC%9A%94?) by 변성윤 님
+- [마트쉬는날 프로젝트 회고](https://jinios.github.io/project/2018/10/26/martholidayfeedback/) by 전미진 님
 
 ## 2017
 
