@@ -32,6 +32,8 @@
 - [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/) by 노경모 님
 - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/#%EC%96%B4%EB%95%8C%EC%9A%94?) by 변성윤 님
 - [마트쉬는날 프로젝트 회고](https://jinios.github.io/project/2018/10/26/martholidayfeedback/) by 전미진 님
+- [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/) by Jeongsu Han 님
+- [스타트업에서 대규모 서비스 기업으로 이직한 주니어 개발자의 2018년 회고](http://jhleed.tistory.com/123) by James Lee 님
 
 ## 2017
 
@@ -78,6 +80,7 @@ written by Jessica Oei, translated by Captain Pangyo
 - [2017년 회고](https://www.sangkon.com/2017/12/31/2017_review/?utm_source=weirdmeetup&utm_medium=original_link_on_post&utm_campaign=2017%EB%85%84+%ED%9A%8C%EA%B3%A0) by 한상곤 님
 - [#retrospection 2017년 회고](http://ohyecloudy.com/pnotes/archives/retrospection-2017/) by 오종빈 님
 - [[회고] 2010 - 2017 회고록](http://azsha.tistory.com/96) by Azsha 님
+- [2017년 회고](http://jhleed.tistory.com/100) by James Lee 님
 
 ### 이벤트
 
