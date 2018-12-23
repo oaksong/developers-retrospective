@@ -16,6 +16,7 @@
 
 ### 회고록
 
+- [2018년 회고](https://wnsgml972.github.io/log/Retrospective_2018.html) by 김준희 님
 - [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/) by 진유림 님
 - [NAVER LABS 입사 후, 한 달 반 회고](https://medium.com/@mjspring/naver-labs-%EC%9E%85%EC%82%AC-%ED%9B%84-%ED%95%9C-%EB%8B%AC-%EB%B0%98-%ED%9A%8C%EA%B3%A0-457858ba88ba) by 박미정 님
 - [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382) by 요우 님
