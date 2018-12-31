@@ -26,14 +26,24 @@
   4. [두번째 직장 #1](http://jojoldu.tistory.com/284)
   5. [두번째 직장 #2](http://jojoldu.tistory.com/302)
   6. [세번째 직장](http://jojoldu.tistory.com/309)
+- 변성윤 님의 회고
+  - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/#%EC%96%B4%EB%95%8C%EC%9A%94?)
+  - [2018년 회고, 2019년 다짐](https://zzsza.github.io/diary/2018/12/22/2018-retrospect/?fbclid=IwAR1n6dtK9oin6BbbiUfJh7-dF6u-acCWV7NqgHHpaTOlQGHhSSZpISsa5xg)
 - [[로그] 어느 봄날의 구직활동:: 졸지에 백수였다가 이제 예비 월급쟁이개발자](http://java.ihoney.pe.kr/504) by 허니몬 님
 - [VIBE iOS 개발 회고](https://medium.com/@ppth0608/vibe-ios-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-dddfb5444a09) by BenPark
 - [2018년 상반기 회고](https://jojoldu.tistory.com/332) by 창천향로 님
 - [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/) by 노경모 님
-- [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/#%EC%96%B4%EB%95%8C%EC%9A%94?) by 변성윤 님
 - [마트쉬는날 프로젝트 회고](https://jinios.github.io/project/2018/10/26/martholidayfeedback/) by 전미진 님
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/) by Jeongsu Han 님
 - [스타트업에서 대규모 서비스 기업으로 이직한 주니어 개발자의 2018년 회고](http://jhleed.tistory.com/123) by James Lee 님
+- [Toss-X에서 애자일 회고를 했다.](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96) by 김준형 님
+- [5년차 안드로이드 개발자의 첫 이직 이야기](https://medium.com/@maryangmin/5%EB%85%84%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-6004ccc0ca4f) by 이승민 님
+- [Bye 2018 Welcome 2019](https://joshua1988.github.io/web-development/opinions/retrospect-in-2018/) by Gihyo Joshua Jang
+- [데이터 엔지니어의 2018년 회고](https://iostream.tistory.com/145?fbclid=IwAR3XfjKHmJKwReI2nHvtTGK3B-iIKHENX1HJqx5fumUyl3dB2xMnBY1UPsc) by 이근호 님
+- [어설픈 데이터분석가의 2018회고, 2019계획](https://2innnnn0.github.io/%EC%96%B4%EC%84%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80%EC%9D%98-2018%ED%9A%8C%EA%B3%A0,-2019%EA%B3%84%ED%9A%8D/?fbclid=IwAR2ZfoazeS4VCw8da6Z7Xy0Kkd9-OA-wRPEtiHKxVaMUaRPIYzB8LPmJiVk) by 이인영 님
+- [2018년 회고 및 2019년 다짐](https://inspiringpeople.github.io/writing/bye2018/?fbclid=IwAR0ZEBFTfpggHPTr0_-4NvVV20kLSIEvUTxBJYNIBSIm4jGPz9IDXn3WZv4) by 장윤경 님
+- [2018년 회고](https://brainbackdoor.tistory.com/103?fbclid=IwAR3RYn9IBSbWqSnh7BZaCawjmEiNJ5szfSiQHqBRliu1BtWNkCeyO9wtj3U) by 가그린민트 님
+- [GoodBye 2018. 회고라 쓰고 반성문이라 읽는다.](https://appear.github.io/2018/12/22/ETC/goodbye2018/?fbclid=IwAR0oJ1gwP6pY_mN_Nn1wsC7utcS5lxL6zu1QjOVsJIGpwM0NVPkvTAshVTU) by 고석진 님
 
 ## 2017
 
@@ -72,7 +82,7 @@
 - [2017년 회고](https://yopyop-5e569.firebaseapp.com/posts/-L1fwhVQ05QTs-THFOw_) by 김우현 님
 - [[잡담] 개발자, 플레이윙즈, 2017년](https://medium.com/@erish/%EC%9E%A1%EB%8B%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%9C%99%EC%A6%88-2017%EB%85%84-ad7309793c96) by 신호석 님
 - [흔하지 않고 좋은 웹 개발자가 되는 방법 (원제: How to be an uncommonly good web developer)](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)  
-written by Jessica Oei, translated by Captain Pangyo
+written by Jessica Oei, translated by Gihyo Joshua Jang
 - [코딩 - 어떤 주니어 개발자의 이야기](https://medium.com/@codesquad_yoda/%EC%BD%94%EB%94%A9-%EC%96%B4%EB%96%A4-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-1d210f2f4dae) written by 남현욱, posted by 코드스쿼드
 - [흔한 개발자의 2017년 회고](http://luckyyowu.tistory.com/380) by 요우 님
 - [2017년을 회고하며](https://hue9010.github.io/til/2017%EB%85%84%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0/) by 이학선 님
@@ -122,3 +132,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [oaksong](https://github.com/oaksong)
 - [ysm0622](https://github.com/ysm0622)
 - [kingbbode](https://github.com/kingbbode)
+- [글또 - 글쓰는 또라이 - 글쓰는 또라이가 세상을 바꾼다](https://www.facebook.com/groups/375431516259701/?hc_ref=ARSilGaJ5myqV1uL6uAwfbGtLFfadPbZtAXdpPlZ6HYLwkDwUihiz5OXvYt3pWZqnBg)
