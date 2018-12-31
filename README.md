@@ -44,6 +44,7 @@
 - [2018년 회고 및 2019년 다짐](https://inspiringpeople.github.io/writing/bye2018/?fbclid=IwAR0ZEBFTfpggHPTr0_-4NvVV20kLSIEvUTxBJYNIBSIm4jGPz9IDXn3WZv4) by 장윤경 님
 - [2018년 회고](https://brainbackdoor.tistory.com/103?fbclid=IwAR3RYn9IBSbWqSnh7BZaCawjmEiNJ5szfSiQHqBRliu1BtWNkCeyO9wtj3U) by 가그린민트 님
 - [GoodBye 2018. 회고라 쓰고 반성문이라 읽는다.](https://appear.github.io/2018/12/22/ETC/goodbye2018/?fbclid=IwAR0oJ1gwP6pY_mN_Nn1wsC7utcS5lxL6zu1QjOVsJIGpwM0NVPkvTAshVTU) by 고석진 님
+- [Jbee.log(2018)](https://medium.com/@Jbee_/jbee-log-2018-fbaa7bd2e243) by Jbee 님
 
 ## 2017
 
