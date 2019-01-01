@@ -58,6 +58,7 @@
 - [2018 회고](https://github.com/rayleighko/training/blob/master/review/2018_Retrospective.md) by 고명진 님
 - [Happy New Year 2019 🤓](https://medium.com/@codesquad_yoda/happy-new-year-2019-9f9931cc4145) by 코드스쿼드(YodaCodd)
 - [2018년을 회고합니다.](http://kyeongwan.kr/37) by 강경완 님
+- [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) by Alan Choi
 
 
 ## 2017
