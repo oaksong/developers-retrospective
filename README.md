@@ -16,7 +16,9 @@
 
 ### 회고록
 
-- [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/) by 진유림 님
+- 진유림 님의 회고
+  - [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/)
+  - [2018년 회고](https://milooy.wordpress.com/2018/12/31/retrospect-2018/)
 - [NAVER LABS 입사 후, 한 달 반 회고](https://medium.com/@mjspring/naver-labs-%EC%9E%85%EC%82%AC-%ED%9B%84-%ED%95%9C-%EB%8B%AC-%EB%B0%98-%ED%9A%8C%EA%B3%A0-457858ba88ba) by 박미정 님
 - [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382) by 요우 님
 - 3번째 직장에 오기까지 by 창천향로 님
@@ -45,6 +47,14 @@
 - [2018년 회고](https://brainbackdoor.tistory.com/103?fbclid=IwAR3RYn9IBSbWqSnh7BZaCawjmEiNJ5szfSiQHqBRliu1BtWNkCeyO9wtj3U) by 가그린민트 님
 - [GoodBye 2018. 회고라 쓰고 반성문이라 읽는다.](https://appear.github.io/2018/12/22/ETC/goodbye2018/?fbclid=IwAR0oJ1gwP6pY_mN_Nn1wsC7utcS5lxL6zu1QjOVsJIGpwM0NVPkvTAshVTU) by 고석진 님
 - [Jbee.log(2018)](https://medium.com/@Jbee_/jbee-log-2018-fbaa7bd2e243) by Jbee 님
+- [2018년 회고](https://blog.outsider.ne.kr/1419) by Outsider 님
+- [2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/) by Joshua 님
+- [일상 - 1년차 병아리 개발자 2018년 회고](https://ideveloper2.tistory.com/165) by Ideveloper2 님
+- [2018. 회고](https://junebuug.github.io/2018-12-30/postmortem) by 김준영 님
+- [Deploy 2018](https://sosolog.netlify.com/posts/retrospect_2018) by 소영이 님
+- [2018년 개발자스럽다 회고](https://blog.gaerae.com/2018/12/retrospective.html) by 개발자스럽다
+- [2018 회고](https://github.com/rayleighko/training/blob/master/review/2018_Retrospective.md) by 고명진 님
+
 
 ## 2017
 
@@ -55,7 +65,7 @@
 - [2017년 회고, 2018년 계획](https://zzsza.github.io/diary/2017/12/30/2017-retrospect/) by 변성윤 님
 - [Jbee’s 2017 그리고 이공일팔](https://medium.com/@Jbee_/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-2017%EB%85%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EA%B8%B0-4bf12983f408) by Jbee 님
 - [2017년 지극히 개인적인 회고](http://asfirstalways.tistory.com/374) by Jbee 님
-- [2017 회고](https://junebuug.github.io/2017_postmortem/) by 김준영 님
+- [2017 회고](https://junebuug.github.io/2017-12-31/2017_postmortem) by 김준영 님
 - [2017년 개발자스럽다 회고](http://blog.gaerae.com/2017/12/gaeraecom-2017.html) by 개발자스럽다
 - [2017년 회고 & 블로그 연말정산](https://beomi.github.io/2017/12/30/Blog-1Year-2017/) by 이준범 님
 - [신입 데이터 엔지니어의 2017년 회고](http://iostream.tistory.com/132) by 이근호 님
