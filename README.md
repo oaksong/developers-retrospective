@@ -60,6 +60,8 @@
 - [2018년을 회고합니다.](http://kyeongwan.kr/37) by 강경완 님
 - [2018년 회고](https://wnsgml972.github.io/log/Retrospective_2018.html) by 김준희 님
 - [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) by Alan Choi
+- [데이터 과학자에서 AI 연구자로 들어서며…](http://freesearch.pe.kr/archives/4905) by 전희원 님
+- [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) by Alan Choi
 
 ## 2017
 
