@@ -58,7 +58,7 @@
 - [2018 회고](https://github.com/rayleighko/training/blob/master/review/2018_Retrospective.md) by 고명진 님
 - [Happy New Year 2019 🤓](https://medium.com/@codesquad_yoda/happy-new-year-2019-9f9931cc4145) by 코드스쿼드(YodaCodd)
 - [2018년을 회고합니다.](http://kyeongwan.kr/37) by 강경완 님
-
+- [2018년 회고](https://wnsgml972.github.io/log/Retrospective_2018.html) by 김준희 님
 
 ## 2017
 
@@ -149,3 +149,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [kingbbode](https://github.com/kingbbode)
 - [글또 - 글쓰는 또라이 - 글쓰는 또라이가 세상을 바꾼다](https://www.facebook.com/groups/375431516259701/?hc_ref=ARSilGaJ5myqV1uL6uAwfbGtLFfadPbZtAXdpPlZ6HYLwkDwUihiz5OXvYt3pWZqnBg)
 - [alanhchoi](https://github.com/alanhchoi)
+- [wnsgml972](https://github.com/wnsgml972)
