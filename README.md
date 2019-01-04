@@ -21,21 +21,23 @@
 - 진유림 님의 회고
   - [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/)
   - [2018년 회고](https://milooy.wordpress.com/2018/12/31/retrospect-2018/)
-- [NAVER LABS 입사 후, 한 달 반 회고](https://medium.com/@mjspring/naver-labs-%EC%9E%85%EC%82%AC-%ED%9B%84-%ED%95%9C-%EB%8B%AC-%EB%B0%98-%ED%9A%8C%EA%B3%A0-457858ba88ba) by 박미정 님
-- [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382) by 요우 님
-- 3번째 직장에 오기까지 by 창천향로 님
-  1. [국비교육기간](http://jojoldu.tistory.com/277)
-  2. [취업준비기간](http://jojoldu.tistory.com/278)
-  3. [첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279)
-  4. [두번째 직장 #1](http://jojoldu.tistory.com/284)
-  5. [두번째 직장 #2](http://jojoldu.tistory.com/302)
-  6. [세번째 직장](http://jojoldu.tistory.com/309)
+- 창천향로 님의 회고
+  - 3번째 직장에 오기까지
+    1. [국비교육기간](http://jojoldu.tistory.com/277)
+    2. [취업준비기간](http://jojoldu.tistory.com/278)
+    3. [첫 직장, 첫번째 이직](http://jojoldu.tistory.com/279)
+    4. [두번째 직장 #1](http://jojoldu.tistory.com/284)
+    5. [두번째 직장 #2](http://jojoldu.tistory.com/302)
+    6. [세번째 직장](http://jojoldu.tistory.com/309)
+  - [2018년 상반기 회고](https://jojoldu.tistory.com/332)
+  - [2018년 하반기 회고](https://jojoldu.tistory.com/373)
 - 변성윤 님의 회고
   - [Gap Year 및 쏘카 이직 이야기](https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/#%EC%96%B4%EB%95%8C%EC%9A%94?)
   - [2018년 회고, 2019년 다짐](https://zzsza.github.io/diary/2018/12/22/2018-retrospect/?fbclid=IwAR1n6dtK9oin6BbbiUfJh7-dF6u-acCWV7NqgHHpaTOlQGHhSSZpISsa5xg)
+- [NAVER LABS 입사 후, 한 달 반 회고](https://medium.com/@mjspring/naver-labs-%EC%9E%85%EC%82%AC-%ED%9B%84-%ED%95%9C-%EB%8B%AC-%EB%B0%98-%ED%9A%8C%EA%B3%A0-457858ba88ba) by 박미정 님
+- [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382) by 요우 님
 - [[로그] 어느 봄날의 구직활동:: 졸지에 백수였다가 이제 예비 월급쟁이개발자](http://java.ihoney.pe.kr/504) by 허니몬 님
 - [VIBE iOS 개발 회고](https://medium.com/@ppth0608/vibe-ios-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0-dddfb5444a09) by BenPark
-- [2018년 상반기 회고](https://jojoldu.tistory.com/332) by 창천향로 님
 - [지난 3년의 기록: 대기업에서 스타트업으로](https://brightparagon.wordpress.com/2018/09/27/movetostartup/) by 노경모 님
 - [마트쉬는날 프로젝트 회고](https://jinios.github.io/project/2018/10/26/martholidayfeedback/) by 전미진 님
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/2018/essay/memoirs2018/) by Jeongsu Han 님
@@ -61,6 +63,7 @@
 - [2018년 회고](https://wnsgml972.github.io/log/Retrospective_2018.html) by 김준희 님
 - [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) by Alan Choi
 - [데이터 과학자에서 AI 연구자로 들어서며…](http://freesearch.pe.kr/archives/4905) by 전희원 님
+- [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html) by wormwlrm 님
 
 ## 2017
 
