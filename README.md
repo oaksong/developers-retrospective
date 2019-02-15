@@ -14,6 +14,14 @@
 
 > 회고가 무엇인지 쉽게 이해할 수 있는 글이 있다면 이곳에 남겨주세요.
 
+## 2019
+
+### 회고록
+
+- [8년차 개발자, 스타트업 회고(1년 3개월)](https://medium.com/@baejinho/8%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%9A%8C%EA%B3%A0-1%EB%85%84-3%EA%B0%9C%EC%9B%94-96c676a59d28) - 배진호 님
+- [3년차 웹 개발자 - 4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3) - kingbbode 님
+- [퇴사 후 한 달을 쉬었다.](http://minieetea.com/2019/01/archives/5360) - 강미경 님
+
 ## 2018
 
 ### 회고록
@@ -64,6 +72,12 @@
 - [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) - Alan Choi
 - [데이터 과학자에서 AI 연구자로 들어서며…](http://freesearch.pe.kr/archives/4905) - 전희원 님
 - [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html) - wormwlrm 님
+- [2018.log](https://velog.io/@velopert/2018.log) - velopert 님
+- [2018 회고 - Coder가 아닌 Programmer로](https://taetaetae.github.io/2018/12/31/review-2018/) - 태태태 님
+- [입사 1년 회고](https://blog.qodot.me/post/%EC%9E%85%EC%82%AC-1%EB%85%84-%ED%9A%8C%EA%B3%A0/) - qodot 님
+- [2018년 회고](https://www.sangkon.com/2018/12/30/2018_review/) - 한상곤 님
+- [뒤늦은 2018년 회고](https://www.facebook.com/pjhjohn1127/posts/2147536031972498) - 박준호 님
+- [2018년 회고](http://webholic.net/2018%EB%85%84-%ED%9A%8C%EA%B3%A0/) - 슈기냥 님
 
 ## 2017
 
