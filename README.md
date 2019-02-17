@@ -102,7 +102,6 @@
 - [되돌아보는 2017년](https://brightparagon.wordpress.com/2017/12/31/retrospective/) - 노경모 님
 - [2017년 회고](http://utilforever.github.io/2017/12/30/2017-retrospect/) - utilForever 님
 - [20대, 그리고 30대](http://utilforever.github.io/2017/12/31/twenty-and-thirty/) - utilForever 님
-- [2017년 회고...](https://www.facebook.com/groups/9xdevelopers/permalink/2006927626231095/) - 김대희 님
 - [2017년 개발자로 어떻게 살았는가(회고)](http://haviyj.tistory.com/41) - Havi 님
 - [2017년 popit 회고](http://www.popit.kr/2017%EB%85%84-popit-%ED%9A%8C%EA%B3%A0/) - popit
 - [2017년 회고 2018년 계획](http://www.haruair.com/blog/4087) - 김용균 님
