@@ -78,6 +78,7 @@
 - [2018년 회고](https://www.sangkon.com/2018/12/30/2018_review/) - 한상곤 님
 - [뒤늦은 2018년 회고](https://www.facebook.com/pjhjohn1127/posts/2147536031972498) - 박준호 님
 - [2018년 회고](http://webholic.net/2018%EB%85%84-%ED%9A%8C%EA%B3%A0/) - 슈기냥 님
+- [키워드로 되돌아 보는 2018년](https://zinee-world.tistory.com/510?category=799595) - 오혜진 님
 
 ## 2017
 
@@ -148,6 +149,7 @@
 - [2016년 회고](https://bestalign.github.io/2017/02/07/2016-summary/) - bestalign 님
 - [3년차 개발자의 2016년 늦은 회고](https://brunch.co.kr/@kiyoungleefige/1) - 이기영 님
 - [4년간의 개인 기술 블로그 운영 회고하기](https://www.holaxprogramming.com/2016/11/17/blahblah-writing-as-programmer/) - 정민혁 님
+- [2016 회고 + 블로그 결산](https://zinee-world.tistory.com/448?category=799595) - 오혜진 님
 
 ## [YOP: Year Of Programmers](https://yopyop-5e569.firebaseapp.com/)
 
