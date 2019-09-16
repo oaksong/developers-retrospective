@@ -21,6 +21,7 @@
 - [8년차 개발자, 스타트업 회고(1년 3개월)](https://medium.com/@baejinho/8%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%9A%8C%EA%B3%A0-1%EB%85%84-3%EA%B0%9C%EC%9B%94-96c676a59d28) - 배진호 님
 - [3년차 웹 개발자 - 4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3) - kingbbode 님
 - [퇴사 후 한 달을 쉬었다.](http://minieetea.com/2019/01/archives/5360) - 강미경 님
+- [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/) - 박준우 님
 
 ## 2018
 
@@ -172,3 +173,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [alanhchoi](https://github.com/alanhchoi)
 - [wnsgml972](https://github.com/wnsgml972)
 - [zineeworld](https://zinee-world.tistory.com)
+- [junwoo45](https://github.com/junwoo45)
