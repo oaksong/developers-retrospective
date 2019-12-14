@@ -32,7 +32,7 @@
 - 진유림 님의 회고
   - [프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기](https://milooy.wordpress.com/2018/02/07/moving-job/)
   - [2018년 회고](https://milooy.wordpress.com/2018/12/31/retrospect-2018/)
-- 창천향로 님의 회고
+- 이동욱 님의 회고
   - 3번째 직장에 오기까지
     1. [국비교육기간](http://jojoldu.tistory.com/277)
     2. [취업준비기간](http://jojoldu.tistory.com/278)
@@ -87,7 +87,7 @@
 
 ### 회고록
 
-- [2017년 회고](https://brunch.co.kr/@jojoldu/19) - 창천향로 님
+- [2017년 회고](https://brunch.co.kr/@jojoldu/19) - 이동욱 님
 - [2017년 회고](https://blog.outsider.ne.kr/1339) - Outsider 님
 - [2017년 회고, 2018년 계획](https://zzsza.github.io/diary/2017/12/30/2017-retrospect/) - 변성윤 님
 - [Jbee’s 2017 그리고 이공일팔](https://medium.com/@Jbee_/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-2017%EB%85%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EA%B8%B0-4bf12983f408) - Jbee 님
@@ -136,7 +136,7 @@
 
 ### 회고록
 
-- [2016년 회고](https://brunch.co.kr/@jojoldu/2) - 창천향로 님
+- [2016년 회고](https://brunch.co.kr/@jojoldu/2) - 이동욱 님
 - [2016년 회고](https://blog.outsider.ne.kr/1262) - Outsider 님
 - [2016년 블로그 포스팅 회고, 블로그를 시작하려는 사람들에게](http://asfirstalways.tistory.com/344?category=667457) - Jbee 님
 - [일일커밋(Daily Commit) – 1년 회고](https://milooy.wordpress.com/2016/07/02/daily-commit-1-year/) - 진유림 님
