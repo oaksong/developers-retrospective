@@ -22,6 +22,7 @@
 - [3년차 웹 개발자 - 4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3) - kingbbode 님
 - [퇴사 후 한 달을 쉬었다.](http://minieetea.com/2019/01/archives/5360) - 강미경 님
 - [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/) - 박준우 님
+- [03년간 챗봇을 운영해온 이야기](https://resten1497.tistory.com/category/%ED%9A%8C%EA%B3%A0) - Resten 님
 
 ## 2018
 
