@@ -32,6 +32,7 @@
 - [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/) - 박준우 님
 - [03년간 챗봇을 운영해온 이야기](https://resten1497.tistory.com/category/%ED%9A%8C%EA%B3%A0) - Resten 님
 - [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/) - Jeongsu Han 님
+- [2019, 세번째 회고](https://juneyr.dev/2019-12-10/retrospective-2019) - 김준영 님
 
 ## 2018
 
