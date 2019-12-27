@@ -33,6 +33,7 @@
 - [03년간 챗봇을 운영해온 이야기](https://resten1497.tistory.com/category/%ED%9A%8C%EA%B3%A0) - Resten 님
 - [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/) - Jeongsu Han 님
 - [2019, 세번째 회고](https://juneyr.dev/2019-12-10/retrospective-2019) - 김준영 님
+- [2019년 회고](https://jhyeok.com/2019-retrospective/) - 김재혁 님
 
 ## 2018
 
@@ -185,3 +186,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [wnsgml972](https://github.com/wnsgml972)
 - [zineeworld](https://zinee-world.tistory.com)
 - [junwoo45](https://github.com/junwoo45)
+- [JHyeok](https://github.com/JHyeok)
