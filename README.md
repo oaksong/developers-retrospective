@@ -34,6 +34,7 @@
 - [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/) - Jeongsu Han 님
 - [2019, 세번째 회고](https://juneyr.dev/2019-12-10/retrospective-2019) - 김준영 님
 - [2019년 회고](https://jhyeok.com/2019-retrospective/) - 김재혁 님
+- [아디오스 2019](https://ehdrjsdlzzzz.github.io/2019/12/30/%EC%95%84%EB%94%94%EC%98%A4%EC%8A%A4-2019/) - 이동건 님
 
 ## 2018
 
