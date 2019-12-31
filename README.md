@@ -40,6 +40,7 @@
 - [아디오스 2019](https://ehdrjsdlzzzz.github.io/2019/12/30/%EC%95%84%EB%94%94%EC%98%A4%EC%8A%A4-2019/) - 이동건 님
 - [2019년 회고](https://johngrib.github.io/wiki/review-2019/) - John Grib 님
 - [Y2019 개인 회고](https://medium.com/@mjspring/y2019-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0-c28113ac005e) - 박미정 님
+- [2019년 회고](https://blog.outsider.ne.kr/1472) - Outsider 님
 
 ## 2018
 
