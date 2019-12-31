@@ -43,6 +43,7 @@
 - [2019년 회고](https://blog.outsider.ne.kr/1472) - Outsider 님
 - [2019년을 회고합니다](https://kyeongwan.kr/38) - 강경완 님
 - [2019년 회고, 이렇게 살았습니다](https://winterj.me/end-of-2019/) - 정겨울 님
+- [Jbee.log(2019)](https://jbee.io/essay/2019_retro/) - Jbee 님
 
 ## 2018
 
@@ -80,7 +81,7 @@
 - [2018년 회고 및 2019년 다짐](https://inspiringpeople.github.io/writing/bye2018/?fbclid=IwAR0ZEBFTfpggHPTr0_-4NvVV20kLSIEvUTxBJYNIBSIm4jGPz9IDXn3WZv4) - 장윤경 님
 - [2018년 회고](https://brainbackdoor.tistory.com/103?fbclid=IwAR3RYn9IBSbWqSnh7BZaCawjmEiNJ5szfSiQHqBRliu1BtWNkCeyO9wtj3U) - 가그린민트 님
 - [GoodBye 2018. 회고라 쓰고 반성문이라 읽는다.](https://appear.github.io/2018/12/22/ETC/goodbye2018/?fbclid=IwAR0oJ1gwP6pY_mN_Nn1wsC7utcS5lxL6zu1QjOVsJIGpwM0NVPkvTAshVTU) - 고석진 님
-- [Jbee.log(2018)](https://medium.com/@Jbee_/jbee-log-2018-fbaa7bd2e243) - Jbee 님
+- [Jbee.log(2018)](https://jbee.io/essay/2018_retro/) - Jbee 님
 - [2018년 회고](https://blog.outsider.ne.kr/1419) - Outsider 님
 - [2018년 회고](http://blog.devjoshua.me/2018/12/30/181230-2018%EB%85%84%ED%9A%8C%EA%B3%A0/) - Joshua 님
 - [일상 - 1년차 병아리 개발자 2018년 회고](https://ideveloper2.tistory.com/165) - Ideveloper2 님
@@ -110,7 +111,7 @@
 - [2017년 회고](https://brunch.co.kr/@jojoldu/19) - 이동욱 님
 - [2017년 회고](https://blog.outsider.ne.kr/1339) - Outsider 님
 - [2017년 회고, 2018년 계획](https://zzsza.github.io/diary/2017/12/30/2017-retrospect/) - 변성윤 님
-- [Jbee’s 2017 그리고 이공일팔](https://medium.com/@Jbee_/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-2017%EB%85%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EA%B8%B0-4bf12983f408) - Jbee 님
+- [Jbee’s 2017 그리고 이공일팔](https://jbee.io/essay/2017_retro/) - Jbee 님
 - [2017년 지극히 개인적인 회고](http://asfirstalways.tistory.com/374) - Jbee 님
 - [2017 회고](https://junebuug.github.io/2017-12-31/2017_postmortem) - 김준영 님
 - [2017년 개발자스럽다 회고](http://blog.gaerae.com/2017/12/gaeraecom-2017.html) - 개발자스럽다
