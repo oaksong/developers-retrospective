@@ -35,6 +35,7 @@
 - [2019, 세번째 회고](https://juneyr.dev/2019-12-10/retrospective-2019) - 김준영 님
 - [2019년 회고](https://jhyeok.com/2019-retrospective/) - 김재혁 님
 - [아디오스 2019](https://ehdrjsdlzzzz.github.io/2019/12/30/%EC%95%84%EB%94%94%EC%98%A4%EC%8A%A4-2019/) - 이동건 님
+- [2019년 회고](https://johngrib.github.io/wiki/review-2019/) - John Grib 님
 
 ## 2018
 
@@ -93,6 +94,7 @@
 - [뒤늦은 2018년 회고](https://www.facebook.com/pjhjohn1127/posts/2147536031972498) - 박준호 님
 - [2018년 회고](http://webholic.net/2018%EB%85%84-%ED%9A%8C%EA%B3%A0/) - 슈기냥 님
 - [키워드로 되돌아 보는 2018년](https://zinee-world.tistory.com/510?category=799595) - 오혜진 님
+- [2018년 회고](https://johngrib.github.io/wiki/review-2018/) - John Grib 님
 
 ## 2017
 
@@ -138,6 +140,7 @@
 - [#retrospection 2017년 회고](http://ohyecloudy.com/pnotes/archives/retrospection-2017/) - 오종빈 님
 - [[회고] 2010 - 2017 회고록](http://azsha.tistory.com/96) - Azsha 님
 - [2017년 회고](http://jhleed.tistory.com/100) - James Lee 님
+- [2017년 회고](https://johngrib.github.io/wiki/review-2017/) - John Grib 님
 
 ### 이벤트
 
