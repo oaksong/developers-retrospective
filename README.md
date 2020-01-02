@@ -203,4 +203,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [zineeworld](https://zinee-world.tistory.com)
 - [junwoo45](https://github.com/junwoo45)
 - [JHyeok](https://github.com/JHyeok)
-- [sambaLim](https://github.com/SambaLim)
+- [SambaLim](https://github.com/SambaLim)
