@@ -47,6 +47,7 @@
 - [2019년 회고, 이렇게 살았습니다](https://winterj.me/end-of-2019/) - 정겨울 님
 - [Jbee.log(2019)](https://jbee.io/essay/2019_retro/) - Jbee 님
 - [코딩덕후 2019년 연말정산](https://co-duck.com/1st) - 코딩덕후 팀
+- [삼바의 2019 회고록](https://sambalim.tistory.com/118?category=852307) - 임성호(삼바) 님
 
 ## 2018
 
@@ -202,3 +203,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [zineeworld](https://zinee-world.tistory.com)
 - [junwoo45](https://github.com/junwoo45)
 - [JHyeok](https://github.com/JHyeok)
+- [SambaLim](https://github.com/SambaLim)
