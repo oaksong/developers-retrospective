@@ -48,6 +48,7 @@
 - [Jbee.log(2019)](https://jbee.io/essay/2019_retro/) - Jbee 님
 - [코딩덕후 2019년 연말정산](https://co-duck.com/1st) - 코딩덕후 팀
 - [삼바의 2019 회고록](https://sambalim.tistory.com/118?category=852307) - 임성호(삼바) 님
+- [개발자로 살며 가장 치열했던 2019년을 돌아보며…](https://medium.com/@engross/a64c8611b6a0) - 김동우 님
 
 ## 2018
 
