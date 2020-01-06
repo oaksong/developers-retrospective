@@ -23,6 +23,7 @@
 - 이동욱 님의 회고
   - [2019년 상반기 회고](https://jojoldu.tistory.com/436)
   - [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
+  - [2019년 하반기 회고](https://jojoldu.tistory.com/471)
 - 강미경 님의 회고
   - [퇴사 후 한 달을 쉬었다.](http://minieetea.com/2019/01/archives/5360)
   - [2019년을 돌아보며 – 괜찮았던 아홉수였다.](http://minieetea.com/2019/12/archives/5866)
