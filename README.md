@@ -50,6 +50,7 @@
 - [코딩덕후 2019년 연말정산](https://co-duck.com/1st) - 코딩덕후 팀
 - [삼바의 2019 회고록](https://sambalim.tistory.com/118?category=852307) - 임성호(삼바) 님
 - [개발자로 살며 가장 치열했던 2019년을 돌아보며…](https://medium.com/@engross/a64c8611b6a0) - 김동우 님
+- [19살, 2년 차 개발자가 되며 - 2019년 회고](https://juneyoung.io/article/2.html) - 강준영 님
 
 ## 2018
 
@@ -207,3 +208,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [JHyeok](https://github.com/JHyeok)
 - [SambaLim](https://github.com/SambaLim)
 - [gimdongwoo](https://github.com/gimdongwoo)
+- [iam-juneyoung](https://github.com/iam-juneyoung)
