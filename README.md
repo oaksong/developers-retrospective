@@ -20,6 +20,10 @@
 
 ### 회고록
 
+- 박준호 님의 회고
+  - [2019년 상반기 회고](https://web.facebook.com/pjhjohn1127/posts/2432262170166548)
+  - [2019년 3분기 회고](https://web.facebook.com/pjhjohn1127/posts/2599545216771575)
+  - [2019년을 돌아보며](https://medium.com/@pjhjohn/looking-back-2019-ab0529838379)
 - 이동욱 님의 회고
   - [2019년 상반기 회고](https://jojoldu.tistory.com/436)
   - [일일커밋 3주년 회고](https://jojoldu.tistory.com/464)
@@ -209,3 +213,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [SambaLim](https://github.com/SambaLim)
 - [gimdongwoo](https://github.com/gimdongwoo)
 - [iam-juneyoung](https://github.com/iam-juneyoung)
+- [pjhjohn](https://github.com/pjhjohn)
