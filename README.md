@@ -35,8 +35,9 @@
   - [2019년 상반기 회고 및 글또 3기 시작](https://zzsza.github.io/diary/2019/07/07/2019-half-retrospect/)
   - [머신러닝 엔지니어의 2019년 회고](https://zzsza.github.io/diary/2019/12/25/2019-retrospect/)
 - Channy Yun 님의 회고
+  - [왜 기술 커뮤니티가 중요할까? -2018년 회고](http://channy.creation.net/blog/1204)
   - [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
-  - [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](https://aws.amazon.com/ko/blogs/korea/5-things-of-cloud-techflow-in-2019/)
+  - [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](http://channy.creation.net/blog/1255)
 - [8년차 개발자, 스타트업 회고(1년 3개월)](https://medium.com/@baejinho/8%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%9A%8C%EA%B3%A0-1%EB%85%84-3%EA%B0%9C%EC%9B%94-96c676a59d28) - 배진호 님
 - [3년차 웹 개발자 - 4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3) - kingbbode 님
 - [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/) - 박준우 님
