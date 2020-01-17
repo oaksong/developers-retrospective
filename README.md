@@ -55,6 +55,7 @@
 - [삼바의 2019 회고록](https://sambalim.tistory.com/118?category=852307) - 임성호(삼바) 님
 - [개발자로 살며 가장 치열했던 2019년을 돌아보며…](https://medium.com/@engross/a64c8611b6a0) - 김동우 님
 - [19살, 2년 차 개발자가 되며 - 2019년 회고](https://juneyoung.io/article/2.html) - 강준영 님
+- [카카오 이직이야기 - 1년의 회고](https://blog.naver.com/gngh0101/221723936498) 호식이님
 
 ## 2018
 
@@ -114,6 +115,7 @@
 - [2018년 회고](http://webholic.net/2018%EB%85%84-%ED%9A%8C%EA%B3%A0/) - 슈기냥 님
 - [키워드로 되돌아 보는 2018년](https://zinee-world.tistory.com/510?category=799595) - 오혜진 님
 - [2018년 회고](https://johngrib.github.io/wiki/review-2018/) - John Grib 님
+- [카카오 이직이야기 - 6개월의 회고](https://blog.naver.com/gngh0101/221485823427) 호식이님
 
 ## 2017
 
@@ -214,3 +216,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [gimdongwoo](https://github.com/gimdongwoo)
 - [iam-juneyoung](https://github.com/iam-juneyoung)
 - [pjhjohn](https://github.com/pjhjohn)
+- [hotire](https://github.com/hotire)
