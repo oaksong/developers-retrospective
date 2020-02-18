@@ -41,6 +41,7 @@
 - [3년차 웹 개발자 - 4년차로 접어든 웹 개발자의 3년차 늦은 회고](http://blog.kingbbode.com/posts/who-am-i-3) - kingbbode 님
 - [TIL을 1년동안 진행하며](https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/) - 박준우 님
 - [03년간 챗봇을 운영해온 이야기](https://resten1497.tistory.com/category/%ED%9A%8C%EA%B3%A0) - Resten 님
+- [2019년의 늦은 회고](https://wnsgml972.github.io/log/2020/02/16/Retrospective_2019/) - 김준희 님
 - [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/) - Jeongsu Han 님
 - [2019, 세번째 회고](https://juneyr.dev/2019-12-10/retrospective-2019) - 김준영 님
 - [2019년 회고](https://jhyeok.com/2019-retrospective/) - 김재혁 님
@@ -103,7 +104,7 @@
 - [2018 회고](https://github.com/rayleighko/training/blob/master/review/2018_Retrospective.md) - 고명진 님
 - [Happy New Year 2019 🤓](https://medium.com/@codesquad_yoda/happy-new-year-2019-9f9931cc4145) - 코드스쿼드(YodaCodd)
 - [2018년을 회고합니다.](http://kyeongwan.kr/37) - 강경완 님
-- [2018년 회고](https://wnsgml972.github.io/log/Retrospective_2018.html) - 김준희 님
+- [2018년 회고](https://wnsgml972.github.io/log/2018/12/23/Retrospective_2018/) - 김준희 님
 - [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) - Alan Choi
 - [데이터 과학자에서 AI 연구자로 들어서며…](http://freesearch.pe.kr/archives/4905) - 전희원 님
 - [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html) - wormwlrm 님
