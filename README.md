@@ -57,6 +57,7 @@
 - [개발자로 살며 가장 치열했던 2019년을 돌아보며…](https://medium.com/@engross/a64c8611b6a0) - 김동우 님
 - [19살, 2년 차 개발자가 되며 - 2019년 회고](https://juneyoung.io/article/2.html) - 강준영 님
 - [카카오 이직이야기 - 1년의 회고](https://blog.naver.com/gngh0101/221723936498) 호식이님
+- [2020년 근간이 될 2019년 회고](https://velog.io/@q00/%EB%8A%A6%EC%9D%80-2019-%ED%9A%8C%EA%B3%A0-400u0zj6) - 이재규 님
 
 ## 2018
 
@@ -218,3 +219,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [iam-juneyoung](https://github.com/iam-juneyoung)
 - [pjhjohn](https://github.com/pjhjohn)
 - [hotire](https://github.com/hotire)
+- [Q00](https://github.com/q00)
