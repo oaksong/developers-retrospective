@@ -14,6 +14,8 @@
 
 > [망년회 대신 기년회](https://docs.google.com/document/pub?id=1Uq1XI58nSjd0JBSibM9a3csXfktxKR7v3d3eKG9S4_M) - 김창준 님
 
+> [회고 (Retrospective)에 대한 정리 및 설계](https://github.com/JaeYeopHan/tip-archive/issues/8) - 한재엽 님
+
 > 회고가 무엇인지 쉽게 이해할 수 있는 글이 있다면 이곳에 남겨주세요.
 
 ## 2020
