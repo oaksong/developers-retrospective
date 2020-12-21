@@ -23,6 +23,7 @@
 ### 회고록
 
 - [주니어 개발자의 2020년 상반기 회고록](https://kdinner.tistory.com/83) - 강전혁 님
+- [주니어 개발자의 2020년 하반기 회고록](https://kdinner.tistory.com/97) - 강전혁 님
 
 ## 2019
 
