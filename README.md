@@ -22,7 +22,9 @@
 
 ### 회고록
 
-- [주니어 개발자의 2020년 상반기 회고록](https://kdinner.tistory.com/83) - 강전혁 님
+- 강전혁 님의 회고
+  - [주니어 개발자의 2020년 상반기 회고록](https://kdinner.tistory.com/83)
+  - [주니어 개발자의 2020년 하반기 회고록](https://kdinner.tistory.com/97)
 - [2020년 회고: 결혼, 모듈화, BPL, 접근성](https://sungdoo.dev/retrospective-or-psa/2020/) - 류성두 님
 
 ## 2019
