@@ -28,6 +28,8 @@
 - [2020년 회고: 결혼, 모듈화, BPL, 접근성](https://sungdoo.dev/retrospective-or-psa/2020/) - 류성두 님
 - [길고 긴 라인(LINE)으로 이직 이야기 - 6 (1년의 회고록)](https://blog.naver.com/gngh0101/222186353442) - 호식이 님
 - [2020년 한 해를 되돌아보며](https://demoversion.tistory.com/88) - Demoversion 님
+- [2020년 회고](https://jhyeok.com/2020-retrospective/) - 김재혁 님
+
 ## 2019
 
 ### 회고록
