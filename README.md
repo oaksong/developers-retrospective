@@ -34,6 +34,7 @@
 - [평생 기억에 남을 2020년](https://minieetea.com/2020/12/archives/6131) - 강미경 님
 - [[2020-11-11] 5년차 개발자](https://kingbbode.tistory.com/51) - kingbbode 님
 - [2020 1년차 주니어 개발자의 회고록](https://davinci-ai.tistory.com/57) - Harim Kang 님
+- [삼바의 2020 회고록](https://sambalim.tistory.com/141) - 임성호(삼바) 님
 
 ## 2019
 
