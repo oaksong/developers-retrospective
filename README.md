@@ -29,6 +29,10 @@
 - [길고 긴 라인(LINE)으로 이직 이야기 - 6 (1년의 회고록)](https://blog.naver.com/gngh0101/222186353442) - 호식이 님
 - [2020년 한 해를 되돌아보며](https://demoversion.tistory.com/88) - Demoversion 님
 - [2020년 회고](https://jhyeok.com/2020-retrospective/) - 김재혁 님
+- [5년 차를 앞둔 머신러닝 엔지니어의 2020년 회고](https://zzsza.github.io/diary/2020/12/27/2020-retrospect/) - 변성윤 님
+- [2020년을 돌아보며 - 변화와 독립, 그리고 감사의 해](https://wonny-log.github.io/writing/journal/the-year-in-review-2020) - 워니 님
+- [평생 기억에 남을 2020년](https://minieetea.com/2020/12/archives/6131) - 강미경 님
+- [[2020-11-11] 5년차 개발자](https://kingbbode.tistory.com/51) - kingbbode 님
 
 ## 2019
 
