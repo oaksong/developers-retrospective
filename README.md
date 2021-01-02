@@ -33,6 +33,7 @@
 - [2020년을 돌아보며 - 변화와 독립, 그리고 감사의 해](https://wonny-log.github.io/writing/journal/the-year-in-review-2020) - 워니 님
 - [평생 기억에 남을 2020년](https://minieetea.com/2020/12/archives/6131) - 강미경 님
 - [[2020-11-11] 5년차 개발자](https://kingbbode.tistory.com/51) - kingbbode 님
+- [2020 1년차 주니어 개발자의 회고록](https://davinci-ai.tistory.com/57) - Harim Kang 님
 
 ## 2019
 
@@ -238,3 +239,4 @@ YOP는 [9XD](https://www.facebook.com/groups/9xdevelopers/)에서 만든 개발�
 - [pjhjohn](https://github.com/pjhjohn)
 - [hotire](https://github.com/hotire)
 - [Q00](https://github.com/q00)
+- [harimkang](https://github.com/harimkang)
