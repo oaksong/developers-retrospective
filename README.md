@@ -34,6 +34,7 @@
 - [평생 기억에 남을 2020년](https://minieetea.com/2020/12/archives/6131) - 강미경 님
 - [[2020-11-11] 5년차 개발자](https://kingbbode.tistory.com/51) - kingbbode 님
 - [2020 1년차 주니어 개발자의 회고록](https://davinci-ai.tistory.com/57) - Harim Kang 님
+- [1년차 개발자의 2020년 회고](https://donghun.dev/2020-Retrospective) - 임동훈 님
 
 ## 2019
 
@@ -77,6 +78,7 @@
 - [19살, 2년 차 개발자가 되며 - 2019년 회고](https://juneyoung.io/article/2.html) - 강준영 님
 - [카카오 이직이야기 - 1년의 회고](https://blog.naver.com/gngh0101/221723936498) 호식이님
 - [2020년 근간이 될 2019년 회고](https://velog.io/@q00/%EB%8A%A6%EC%9D%80-2019-%ED%9A%8C%EA%B3%A0-400u0zj6) - 이재규 님
+- [졸업을 앞둔 학생 개발자의 2019년 회고](https://donghun.dev/2019-Retrospective) - 임동훈 님
 
 ## 2018
 
