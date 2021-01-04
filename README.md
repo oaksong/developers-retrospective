@@ -25,6 +25,9 @@
 - 강전혁 님의 회고
   - [주니어 개발자의 2020년 상반기 회고록](https://kdinner.tistory.com/83)
   - [주니어 개발자의 2020년 하반기 회고록](https://kdinner.tistory.com/97)
+- 박준호 님의 회고
+  - [Looking Back 2020 Q1](https://pjhjohn.medium.com/looking-back-2020-q1-a9549f2aa911)
+  - [20 Things in 2020](https://pjhjohn.medium.com/20-things-in-2020-61b0146945cc)
 - [2020년 회고: 결혼, 모듈화, BPL, 접근성](https://sungdoo.dev/retrospective-or-psa/2020/) - 류성두 님
 - [길고 긴 라인(LINE)으로 이직 이야기 - 6 (1년의 회고록)](https://blog.naver.com/gngh0101/222186353442) - 호식이 님
 - [2020년 한 해를 되돌아보며](https://demoversion.tistory.com/88) - Demoversion 님
@@ -36,6 +39,9 @@
 - [2020 1년차 주니어 개발자의 회고록](https://davinci-ai.tistory.com/57) - Harim Kang 님
 - [1년차 개발자의 2020년 회고](https://donghun.dev/2020-Retrospective) - 임동훈 님
 - [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고)](https://kadensungbincho.tistory.com/2) - 조성빈 님
+- [2020년 회고](https://blog.outsider.ne.kr/1522) - Outsider 님
+- [당근마켓 그리고 David (벌써일년 회고록)](https://medium.com/@h2s1880/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EA%B7%B8%EB%A6%AC%EA%B3%A0-david-%EB%B2%8C%EC%8D%A8%EC%9D%BC%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-68c92146bed2) - 하현수 님
+- [3년차 프론트엔드 개발자의 2020년 회고](https://wormwlrm.github.io/2021/01/03/2020-Retrospect.html) - 재그지그 님
 
 ## 2019
 
@@ -80,6 +86,7 @@
 - [카카오 이직이야기 - 1년의 회고](https://blog.naver.com/gngh0101/221723936498) 호식이님
 - [2020년 근간이 될 2019년 회고](https://velog.io/@q00/%EB%8A%A6%EC%9D%80-2019-%ED%9A%8C%EA%B3%A0-400u0zj6) - 이재규 님
 - [졸업을 앞둔 학생 개발자의 2019년 회고](https://donghun.dev/2019-Retrospective) - 임동훈 님
+- [2년차 프론트엔드 개발자의 2019년 회고](https://wormwlrm.github.io/2019/12/31/2019-Retrospect.html) - 재그지그 님
 
 ## 2018
 
@@ -130,7 +137,7 @@
 - [2018년 회고](https://wnsgml972.github.io/log/2018/12/23/Retrospective_2018/) - 김준희 님
 - [2018 Retrospective](https://www.notion.so/2018-Retrospective-217d1f899c95479090d6caafd2f7e2fc) - Alan Choi
 - [데이터 과학자에서 AI 연구자로 들어서며…](http://freesearch.pe.kr/archives/4905) - 전희원 님
-- [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html) - wormwlrm 님
+- [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html) - 재그지그 님
 - [2018.log](https://velog.io/@velopert/2018.log) - velopert 님
 - [2018 회고 - Coder가 아닌 Programmer로](https://taetaetae.github.io/2018/12/31/review-2018/) - 태태태 님
 - [입사 1년 회고](https://blog.qodot.me/post/%EC%9E%85%EC%82%AC-1%EB%85%84-%ED%9A%8C%EA%B3%A0/) - qodot 님
