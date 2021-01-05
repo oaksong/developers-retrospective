@@ -37,6 +37,7 @@
 - [평생 기억에 남을 2020년](https://minieetea.com/2020/12/archives/6131) - 강미경 님
 - [[2020-11-11] 5년차 개발자](https://kingbbode.tistory.com/51) - kingbbode 님
 - [2020 1년차 주니어 개발자의 회고록](https://davinci-ai.tistory.com/57) - Harim Kang 님
+- [삼바의 2020 회고록](https://sambalim.tistory.com/141) - 임성호(삼바) 님
 - [1년차 개발자의 2020년 회고](https://donghun.dev/2020-Retrospective) - 임동훈 님
 - [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고)](https://kadensungbincho.tistory.com/2) - 조성빈 님
 - [2020년 회고](https://blog.outsider.ne.kr/1522) - Outsider 님
